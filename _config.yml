@@ -1,5 +1,6 @@
 theme: minima
 title: Yufei's Portfolio
+baseurl: "/skills-github-pages"
 author: Yufei
 minima:
   skin: solarized
