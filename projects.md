@@ -1,14 +1,8 @@
 ---
 layout: page
-title: "My Projects"
 permalink: /projects/
 ---
-
-# My Projects
-
-Welcome to my projects page. Below are some of the projects I have worked on. Feel free to explore!
-
-## 1. **Project Title 1**
+## 1. **Smart Passenger Service Integrated Control Platform for Urban Rail Transit**
 
 ![Project1](assets/images/1.jpg)
 
@@ -18,7 +12,7 @@ Welcome to my projects page. Below are some of the projects I have worked on. Fe
 
 ---
 
-## 2. **Project Title 2**
+## 2. **Software Assistant**
 
 ![Project2](assets/images/2.jpg)
 
@@ -28,7 +22,7 @@ Welcome to my projects page. Below are some of the projects I have worked on. Fe
 
 ---
 
-## 3. **Project Title 3**
+## 3. **Vehicle-Mounted Embedded System **
 
 ![Project3](assets/images/3.jpg)
 
@@ -38,7 +32,7 @@ Welcome to my projects page. Below are some of the projects I have worked on. Fe
 
 ---
 
-## 4. **Project Title 4**
+## 4. **Maintenance System**
 
 ![Project4](assets/images/4.jpg)
 
