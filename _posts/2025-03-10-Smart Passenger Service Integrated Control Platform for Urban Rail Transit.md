@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-## 1. **Smart Passenger Service Integrated Control Platform for Urban Rail Transit**
+## **Smart Passenger Service Integrated Control Platform for Urban Rail Transit**
 
 ![Project1]({{ site.baseurl }}/assets/images/1.jpg)
 
