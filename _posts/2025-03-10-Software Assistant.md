@@ -2,7 +2,7 @@
 layout: page
 
 ---
-## 2. **Software Assistant**
+## **Software Assistant**
 
 ![Project2]({{ site.baseurl }}/assets/images/2.jpg)
 
